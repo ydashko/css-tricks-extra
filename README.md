@@ -1,6 +1,6 @@
 # css-tricks-extra
 
-cards sliders etc
+cards sliders
 
 
 
